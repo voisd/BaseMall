@@ -58,7 +58,6 @@ dependencies {
     compile 'com.gyf.barlibrary:barlibrary:2.2.2'
     compile 'com.yanzhenjie:permission:1.0.8'
     compile files('libs/gson-2.2.3.jar')
-    compile files('libs/aliyun-oss-sdk-android-2.3.0.jar')
     compile files('libs/okhttp-3.4.1.jar')
     compile files('libs/okio-1.10.0.jar')
 }
